@@ -1,0 +1,20 @@
+[
+  {
+    "image": "/img/chef.jpg",
+    "alt_en": "Chef Mohammad Elkhaldy standing under a single studio light",
+    "alt_fr": "Le chef Mohammad Elkhaldy debout sous une seule lumière de studio",
+    "alt_ar": "الشيف محمد الخالدي واقفًا تحت ضوء واحد في الاستوديو"
+  },
+  {
+    "image": "/img/hands.jpg",
+    "alt_en": "A white plate printed with two open hands",
+    "alt_fr": "Une assiette blanche imprimée de deux mains ouvertes",
+    "alt_ar": "طبق أبيض مطبوع عليه يدان مفتوحتان"
+  },
+  {
+    "image": "/img/tomato.jpg",
+    "alt_en": "Steam rising from a jar of cherry tomatoes",
+    "alt_fr": "De la vapeur s’échappe d’un bocal de tomates cerises",
+    "alt_ar": "بخار يتصاعد من برطمان طماطم كرزية"
+  }
+]
